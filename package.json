@@ -1,0 +1,7 @@
+{
+    "dependencies": {
+        "lodash": "3.10.1"
+    },
+    "private": true,
+    "version": "3.0.0"
+}
